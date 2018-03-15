@@ -11,3 +11,4 @@ Finite difference of cooling of two dykes using Forward Euler scheme (explicit).
 Finite difference of cooling of two plutons in map view using Forward Euler scheme.
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/davidboutelier/ForwardModelling/master)
+.. image:: https://mybinder.org/badge.svg :target: https://mybinder.org/v2/gh/davidboutelier/ForwardModelling/master
