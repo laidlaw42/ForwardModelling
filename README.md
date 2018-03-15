@@ -8,4 +8,6 @@ Cooling of a dyke using the analytical solution
 Finite difference of cooling of two dykes using Forward Euler scheme (explicit).
 
 ## Finite difference 2D
-Finite difference of cooling of two plutons in map view using Forward Euler scheme. Calculation is vectorized
+Finite difference of cooling of two plutons in map view using Forward Euler scheme.
+
+https://mybinder.org/v2/gh/davidboutelier/ForwardModelling/master
