@@ -1,5 +1,5 @@
 # Forward Modelling
-Scripts for Course on Forward modelling 
+Scripts for Lab on Forward modelling in GEOS3330
 
 ## Analytical 1D solution
 Cooling of a dyke using the analytical solution
