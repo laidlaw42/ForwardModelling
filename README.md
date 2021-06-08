@@ -1,5 +1,5 @@
 # Forward Modelling
-Scripts for Lab on Forward modelling
+Scripts for lab on *forward modelling* techniques as outlined by Dr. David Bouetlier.
 
 ## Notebooks
 - Analytical 1D solution - Cooling of a dyke using the analytical solution.
